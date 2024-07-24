@@ -6,7 +6,6 @@
     _id:string;
 
   };
-
   export type OrderType = {
     name: string;
     address: string;
